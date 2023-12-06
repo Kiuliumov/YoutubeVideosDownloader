@@ -32,7 +32,7 @@ Before you begin, ensure you have the following requirements:
   python youtube_downloader.py
 ## Screenshots
 
-![Screenshot 1]('Screenshots/screenshot1.png')
+![Screenshot 1]('Screenshots/screenshot.png')
 
 
 
