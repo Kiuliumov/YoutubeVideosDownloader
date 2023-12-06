@@ -4,10 +4,10 @@ import customtkinter
 from pytube import YouTube
 import os
 def get_default_download_directory():
-    home_directory = os.path.expanduser("~")  # Get the user's home directory
-    if os.name == 'posix':  # Linux or macOS
+    home_directory = os.path.expanduser("~")  
+    if os.name == 'posix':  
         return os.path.join(home_directory, 'Downloads')
-    elif os.name == 'nt':  # Windows
+    elif os.name == 'nt': 
         return os.path.join(home_directory, 'Downloads')
     else:
         return home_directory
