@@ -7,7 +7,6 @@ A simple YouTube downloader GUI application built with Python and Tkinter, capab
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
